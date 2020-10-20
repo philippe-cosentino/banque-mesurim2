@@ -141,5 +141,7 @@
 {"titre":"Faille (Canada, La Minerve)","tags":"geologie,faille,canada,strates","auteur":"Amaury Tavernier","fn":"faille-inverse-canada-minerve.jpg"},
 {"titre":"Faille (Canada, rivière du Loup)","tags":"geologie,faille,canada,strates","auteur":"Amaury Tavernier","fn":"faille-normale-canada-loup.jpg"},
 {"titre":"West Mitten Butte (Arizona)","tags":"geologie,butte,arizona,neck,mesa,permien,gres,strates","auteur":"Wilfried Prigent","fn":"west-mitten-butte.jpg"},
-{"titre":"Fonte du glacier à La Flégère","tags":"climatologie,climat,glacier,fonte,flegere,rechauffement","auteur":"","fn":"flegere-avant.jpg,flegere-apres.jpg","split":true,"auteur":"A. Cerdan & R. Noyon","licence":"&copy;"}
+{"titre":"Vue de la mer de Glace depuis la Flégère (1856 / actuelle)","tags":"climatologie,climat,glacier,fonte,flegere,mer,glace,rechauffement","fn":"flegere-avant.jpg,flegere-apres.jpg","split":true,"auteur":"A. Cerdan & R. Noyon","licence":"&copy;"},
+{"titre":"Glacier d&apos;Argentière (1860 / actuelle)","tags":"climatologie,climat,glacier,fonte,argentiere,mer,glace,rechauffement","fn":"argentiere-avant.jpg,argentiere-apres.jpg","split":true,"auteur":"Aimé Civiale / A. Cerdan & R. Noyon","licence":"&copy;"},
+{"titre":"Les glaciers des Bossons et de Taconnaz (1864 / actuelle)","tags":"climatologie,climat,glacier,fonte,bossons,taconnaz,rechauffement","fn":"bossons-avant.jpg,bossons-apres.jpg","split":true,"auteur":"Ferrier & Soulier / A. Cerdan & R. Noyon","licence":"&copy;"}
 ]
