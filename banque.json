@@ -153,5 +153,10 @@
 {"titre":"West Mitten Butte (Arizona)","tags":"geologie,butte,arizona,neck,mesa,permien,gres,strates","auteur":"Wilfried Prigent","fn":"west-mitten-butte.jpg"},
 {"titre":"Vue de la mer de Glace depuis la Flégère (1856 / actuelle)","tags":"climatologie,climat,glacier,fonte,flegere,mer,glace,rechauffement","fn":"flegere-avant.jpg,flegere-apres.jpg","split":true,"auteur":"A. Cerdan & R. Noyon","licence":"&copy;"},
 {"titre":"Glacier d&apos;Argentière (1860 / actuelle)","tags":"climatologie,climat,glacier,fonte,argentiere,mer,glace,rechauffement","fn":"argentiere-avant.jpg,argentiere-apres.jpg","split":true,"auteur":"Aimé Civiale / A. Cerdan & R. Noyon","licence":"&copy;"},
-{"titre":"Les glaciers des Bossons et de Taconnaz (1864 / actuelle)","tags":"climatologie,climat,glacier,fonte,bossons,taconnaz,rechauffement","fn":"bossons-avant.jpg,bossons-apres.jpg","split":true,"auteur":"Ferrier & Soulier / A. Cerdan & R. Noyon","licence":"&copy;"}
+{"titre":"Les glaciers des Bossons et de Taconnaz (1864 / actuelle)","tags":"climatologie,climat,glacier,fonte,bossons,taconnaz,rechauffement","fn":"bossons-avant.jpg,bossons-apres.jpg","split":true,"auteur":"Ferrier & Soulier / A. Cerdan & R. Noyon","licence":"&copy;"},
+
+{"titre":"Lame mince de gabbro en LPA","tags":"geologie,petrologie,gabbro,lame mince,lpa","fn":"avert.jpg","dn":"pano-gabbro","micro":true,"auteur":"Frederic Labaune"},
+{"titre":"Lame mince de granite (île vierge) en LPA","tags":"geologie,petrologie,granite,ile vierge,lame mince,lpa","fn":"avert.jpg","dn":"granite-ile-vierge","micro":true,"auteur":"Frederic Labaune"}
+
+
 ]
