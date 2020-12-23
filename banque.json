@@ -119,9 +119,9 @@
 {"titre":"Epiderme inférieur d&apos;épiderme de tulipe (obj x10)","tags":"tulipe,feuille,epiderme,cellules,noyau,tissu,histologie,botanique,vegetal,stomates","auteur":"Frédéric Labaune","fn":"epiderme-inf-10x.jpg","ech":0.445},
 {"titre":"Stomates de misère (épiscopie)","tags":"misere,tradescantia,feuille,epiderme,cellules,episcopie,tissu,histologie,botanique,vegetal,stomates","auteur":"Frédéric Labaune","fn":"stomates-misere-episcopie.jpg","ech":0.455},
 
-{"titre":"Racine d&apos;ail (entière)","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Vincent Guili","fn":"racine-entiere-ail.jpg","ech":0.488},
-{"titre":"Racine d&apos;ail (entière)","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Frédéric Labaune","fn":"racine-entiere-ail-flb.jpg","ech":1.169},
-{"titre":"Racine d&apos;ail (entière)","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Frédéric Labaune","fn":"racine-entiere-ail-flb2.jpg","ech":1.324},
+{"titre":"Racine d&apos;ail en coupe longitudinale","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Vincent Guili","fn":"racine-entiere-ail.jpg","ech":0.488},
+{"titre":"Racine d&apos;ail en coupe longitudinale","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Frédéric Labaune","fn":"racine-entiere-ail-flb.jpg","ech":1.169},
+{"titre":"Racine d&apos;ail en coupe longitudinale","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Frédéric Labaune","fn":"racine-entiere-ail-flb2.jpg","ech":1.324},
 {"titre":"Racine d&apos;ail (détail de l&apos;extrémité)","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","auteur":"Frédéric Labaune","fn":"racine-detail-ail-flb.jpg","ech":0.997},
 {"titre":"Apex de racine d&apos;oignon","tags":"genetique,oignon,racine,mitose,cellules,histologie,botanique,plante,vegetal","auteur":"Frédéric Labaune","fn":"racine-oignon-mitoses.jpg","ech":0.274},
 {"titre":"Poils absorbants","tags":"racine,poils,absorbants,botanique","auteur":"Frédéric Labaune","fn":"poils-absorbants.jpg","ech":0.363},
@@ -173,6 +173,8 @@
 "ech":0.54528,"desc":"Coloration fast-green, safranine (lignine en rouge).<br><br><a target=_blank href=http://www.phonat.fr/zoomify/grain-zea-legende.html>Voir une version légendée/interprétée sur le site de l'auteur de la lame</a>."},
 {"titre":"Apex de racine d&apos;oignon","tags":"oignon,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","fn":"avert.jpg","dn":"racine-oignon","micro":true,"auteur":"Frédéric Labaune",
 "ech":0.112,"desc":"Technique du squash, coloration à l&apos;orcéine acétique.<br><br>Objectif x40."},
+{"titre":"Racine d&apos;ail","tags":"ail,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","fn":"avert.jpg","dn":"racine-ail","micro":true,"auteur":"Frédéric Labaune",
+"ech":0.556,"desc":"Racine d'ail en coupe longitudinale."},
 {"titre":"Lame mince de péridotite en inclusion dans du basalte, en LPA","tags":"geologie,petrologie,peridotite,basalte,inclusion,lame mince,lpa","fn":"avert.jpg","dn":"inclusion-peridotite","micro":true,"auteur":"Frédéric Labaune",
 "ech":3.87365,"desc":"Enclave de péridotite de type lherzolite à spinelle dans une gangue basaltique.<br><br>Présence de clinopyroxène et d'olivines.<br><br>Localisation : Maar de Beaunit – Massif Central.<br><br><a target=_blank href=http://www.macromicrophoto.fr/petrography/zoom/peridotite-inclusion.html>Voir sur le site de l'auteur.</a>"},
 {"titre":"Lame mince d'éclogite, en LPA","tags":"geologie,petrologie,eclogite,grenat,jadeite,lame mince,lpa","fn":"avert.jpg","dn":"eclogite-sorda","micro":true,"auteur":"Frédéric Labaune",
@@ -186,5 +188,7 @@
 {"titre":"Sang humain","tags":"histologie,cellules,immunologie,sang,hematies,erythrocytes,globules,leucocytes,granulocytes,monocytes,immunite","auteur":"Frédéric Labaune","fn":"avert.jpg","dn":"sang-humain","micro":true,
 "ech":0.064,"desc":"Frottis de sang humain, coloration de Giemsa."},
 {"titre":"Cortex cérébral","tags":"histologie,cellules,neurones,cortex,cerveau","auteur":"Frédéric Labaune","fn":"avert.jpg","dn":"cortex","micro":true,
-"ech":0.2773,"desc":""}
+"ech":0.2773,"desc":""},
+{"titre":"Coupe de pancréas","tags":"histologie,cellules,pancreas,ilots,langerhans","auteur":"Frédéric Labaune","fn":"avert.jpg","dn":"pancreas","micro":true,
+"ech":0.257,"desc":""}
 ]
