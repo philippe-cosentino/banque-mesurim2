@@ -71,6 +71,7 @@
 {"titre":"Culture d&apos;euglènes (à la lumière)","tags":"metabolisme,euglenes,algues,cellules,autotrophie,lumiere,photosynthese,cellule","auteur":"Frédéric Labaune","fn":"euglenes-lumiere.jpg","ech":0.1544},
 {"titre":"Culture d&apos;euglènes (à l&apos;obscurité)","tags":"metabolisme,euglenes,algues,cellules,autotrophie,obscurite,photosynthese,cellule","auteur":"Frédéric Labaune","fn":"euglenes-obscurite.jpg","ech":0.1544},
 {"titre":"Grain de blé avec germe (coupe)","tags":"botanique,ble,grain,graine,amidon,amylase,germe,germination","auteur":"Frédéric Labaune","fn":"coupe-ble.jpg","ech":2.6764},
+{"titre":"Grain de blé avec germe (microscope)","tags":"botanique,ble,grain,graine,amidon,amylase,germe,germination","auteur":"Frédéric Labaune","fn":"coupe-ble2.jpg","ech":1.622},
 {"titre":"Lichen entier","tags":"botanique,lichen,symbiose,champignon,mycellium,algues","auteur":"Frédéric Labaune","fn":"lichen-macro.jpg","ech":77.40},
 {"titre":"Lichen coupe transversale (microscope)","tags":"botanique,lichen,symbiose,champignon,mycellium,algues","auteur":"Frédéric Labaune","fn":"lichen-CT.jpg","ech":0.4444},
 {"titre":"Lichen coupe transversale (microscope obj.x60)","tags":"botanique,lichen,symbiose,champignon,mycellium,algues","auteur":"Frédéric Labaune","fn":"lichen-CT2.jpg","ech":0.29482},
@@ -170,7 +171,8 @@
 
 
 
-
+{"titre":"Gousse et graines de moutarde sauvage","tags":"pois,gousse,graines,botanique,plante,vegetal","fn":"avert.jpg","dn":"gousse","micro":true,"auteur":"Frédéric Labaune",
+"ech":1.23,"desc":""},
 {"titre":"Grain de maïs en coupe longitudinale","tags":"mais,zea,graine,cellules,histologie,botanique,plante,vegetal","fn":"avert.jpg","dn":"grain-mais","micro":true,"auteur":"Frédéric Labaune",
 "ech":0.54528,"desc":"Coloration fast-green, safranine (lignine en rouge).<br><br><a target=_blank href=http://www.phonat.fr/zoomify/grain-zea-legende.html>Voir une version légendée/interprétée sur le site de l'auteur de la lame</a>."},
 {"titre":"Apex de racine d&apos;oignon","tags":"oignon,racine,mitose,elongation,cellules,histologie,botanique,plante,vegetal","fn":"avert.jpg","dn":"racine-oignon","micro":true,"auteur":"Frédéric Labaune",
