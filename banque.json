@@ -140,9 +140,9 @@
 {"titre":"Gabbro (lame mince) en LPA","tags":"geologie,petrologie,gabbro,lame mince,lpa","auteur":"Frédéric Labaune","fn":"gabbro-lpa.jpg","ech":2},
 {"titre":"Basalte (lame mince) en LPA","tags":"geologie,petrologie,basalte,lame mince,lpa","auteur":"Frédéric Labaune","fn":"basalte-lpa.jpg","ech":2},
 
-{"titre":"Hétérohélicidés, calcaire marneux, Maastrichtien (obj x4)","tags":"geologie,paleontologie,petrologie,marnes,heterohelix,heterohelicides,cretace,maastrichtien,microfossile,fossile","auteur":"Philippe Cosentino","fn":"heterohelix-maas-x4.jpg"},
-{"titre":"Globotruncanidés, calcaire marneux, Maastrichtien (obj x4)","tags":"geologie,paleontologie,petrologie,marnes,globotruncana,globotruncanides,cretace,maastrichtien,microfossile,fossile","auteur":"Philippe Cosentino","fn":"globotruncan-maas-x4.jpg"},
-{"titre":"Globigérinidés, calcaire marneux, Paléocène (obj x4)","tags":"geologie,paleontologie,petrologie,marnes,globigerines,globigerinides,paleocene,microfossile,fossile","auteur":"Philippe Cosentino","fn":"globigerin-po-x4.jpg"},
+{"titre":"Hétérohélicidés, calcaire marneux, Maastrichtien (obj x4)","tags":"geologie,paleontologie,petrologie,marnes,heterohelix,heterohelicides,cretace,maastrichtien,microfossile,fossile","auteur":"Philippe Cosentino","fn":"heterohelix-maas-x4.jpg","ech":1.042},
+{"titre":"Globotruncanidés, calcaire marneux, Maastrichtien (obj x4)","tags":"geologie,paleontologie,petrologie,marnes,globotruncana,globotruncanides,cretace,maastrichtien,microfossile,fossile","auteur":"Philippe Cosentino","fn":"globotruncan-maas-x4.jpg","ech":1.026},
+{"titre":"Globigérinidés, calcaire marneux, Paléocène (obj x4)","tags":"geologie,paleontologie,petrologie,marnes,globigerines,globigerinides,paleocene,microfossile,fossile","auteur":"Philippe Cosentino","fn":"globigerin-po-x4.jpg","ech":1.027},
 {"titre":"Globigérinidés, marnes lavées","tags":"geologie,paleontologie,petrologie,marnes,lavees,globigerines,globigerinides,microfossile,fossile","auteur":"Frédéric Labaune","fn":"globi-marnes-lavees.jpg","ech":1.024},
 {"titre":"Hétérohélicidés, marnes lavées","tags":"geologie,paleontologie,petrologie,marnes,lavees,heterohelix,heterohelicides,microfossile,fossile","auteur":"Frédéric Labaune","fn":"heterohelix-marnes-lavees.jpg","ech":0.85},
 {"titre":"Globotruncanidés, marnes lavées","tags":"geologie,paleontologie,petrologie,marnes,lavees,globotruncana,globotruncanides,microfossile,fossile","auteur":"Frédéric Labaune","fn":"globotruncana-marnes-lavees.jpg","ech":1},
